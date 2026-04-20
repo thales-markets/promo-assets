@@ -1,0 +1,10 @@
+{                                                                                                                                                                                            
+    "image": "https://thales-markets.github.io/promo-assets/NBA20APR.webp",
+    "url": "https://www.overtimemarkets.xyz/markets?status=OpenMarkets&sport=Basketball&tag=NBA&date=24hours&lang=en-US&showActive=false",                                                     
+    "text": "",                                                                                                                                                                                
+    "title": "",                                                                                                                                                                               
+    "onlyOnce": true,                                                                                                                                                                          
+    "showForLoggedInOnLoad": true,                                                                                                                                                             
+    "guestDisplay": "onLoad",                                                                                                                                                                  
+    "validUntil": "2026-04-21T10:00:00"                                                                                                                                                        
+}
