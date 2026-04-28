@@ -1,10 +1,10 @@
 {
-    "image": "https://thales-markets.github.io/promo-assets/NBA24APR.webp",
-    "url": "https://www.overtimemarkets.xyz/markets?status=OpenMarkets&sport=Basketball&tag=NBA&date=24hours&lang=en-US&showActive=false",
+    "image": "https://thales-markets.github.io/promo-assets/UCLAPR28.webp",
+    "url": "https://www.overtimemarkets.xyz/markets/0x3230323630343238373232343446454500000000000000000000000000000000?lang=en-US&title=Paris%20Saint-Germain%20FC%20-%20FC%20Bayern%20M%C3%BCnchen",
     "text": "",
     "title": "",
     "onlyOnce": true,
     "showForLoggedInOnLoad": true,
     "guestDisplay": "onLoad",
-    "validUntil": "2026-04-25T10:00:00Z"
+    "validUntil": "2026-04-28T23:59:59Z"
 }
