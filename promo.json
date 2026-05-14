@@ -1,10 +1,10 @@
 {
-    "image": "https://thales-markets.github.io/promo-assets/2xXP.webp",
-    "url": "https://www.overtimemarkets.xyz/casino",
+    "image": "https://thales-markets.github.io/promo-assets/modal_1.webp",
+    "url": "https://www.overtimemarkets.xyz/",
     "text": "",
     "title": "",
     "onlyOnce": true,
     "showForLoggedInOnLoad": true,
     "guestDisplay": "onLoad",
-    "validUntil": "2026-05-11T23:00:00Z"
+    "validUntil": "2026-05-16T10:00:00Z"
 }
