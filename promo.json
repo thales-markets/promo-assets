@@ -1,10 +1,10 @@
 {
-    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/CASINORUSH.webp",
+    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/Group48096463.webp",
     "url": "https://www.overtimemarkets.xyz/casino/rush",
     "text": "",
     "title": "",
     "onlyOnce": true,
-    "showForLoggedInOnLoad": false,
+    "showForLoggedInOnLoad": true,
     "guestDisplay": "onLoad",
-    "validUntil": "2026-08-13T16:00:00Z"
+    "validUntil": "2026-08-20T16:00:00Z"
 }
