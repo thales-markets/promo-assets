@@ -1,10 +1,10 @@
 {
-    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/PARLAYCOMP-cta.webp",
+    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/week1.png",
     "url": "https://www.overtimemarkets.xyz/overdrop?selected-tab=parlay-competition",
     "text": "",
     "title": "",
     "onlyOnce": true,
     "showForLoggedInOnLoad": true,
     "guestDisplay": "onLoad",
-    "validUntil": "2026-10-01T14:00:00Z"
+    "validUntil": "2026-09-09T14:00:00Z"
 }
