@@ -1,10 +1,10 @@
 {
-    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/ENGAGE.png",
-    "url": "https://discord.gg/RkznvSvyJ",
+    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/PENFRONT.png",
+    "url": "https://www.overtimemarkets.xyz/casino/penalty-shootout",
     "text": "",
     "title": "",
     "onlyOnce": true,
     "showForLoggedInOnLoad": true,
     "guestDisplay": "onLoad",
-    "validUntil": "2026-09-24T14:00:00Z"
+    "validUntil": "2026-10-06T14:00:00Z"
 }
