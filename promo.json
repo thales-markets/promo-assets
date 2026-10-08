@@ -1,10 +1,10 @@
 {
-    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/SEPT.png",
-    "url": "https://www.overtimemarkets.xyz/overdrop",
+    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/HOOP.png",
+    "url": "https://www.overtimemarkets.xyz/casino/hoop-streak",
     "text": "",
     "title": "",
     "onlyOnce": true,
     "showForLoggedInOnLoad": true,
     "guestDisplay": "onLoad",
-    "validUntil": "2026-10-04T14:00:00Z"
+    "validUntil": "2026-10-12T14:00:00Z"
 }
