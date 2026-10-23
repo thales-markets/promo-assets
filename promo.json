@@ -1,10 +1,10 @@
 {
-    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/STANDOFF.png",
-    "url": "https://www.overtimemarkets.xyz/casino/standoff",
+    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/NWS1.png",
+    "url": "https://www.overtimemarkets.xyz/newsletter",
     "text": "",
     "title": "",
     "onlyOnce": true,
     "showForLoggedInOnLoad": true,
     "guestDisplay": "onLoad",
-    "validUntil": "2026-10-23T14:00:00Z"
+    "validUntil": "2026-10-26T08:00:00Z"
 }
