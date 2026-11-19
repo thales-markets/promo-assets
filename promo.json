@@ -1,10 +1,10 @@
 {
-    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/nba200.png",
-    "url": "https://x.com/Overtime_io/status/2123069213006848341",
+    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/NFL11.png",
+    "url": "https://www.overtimemarkets.xyz/markets?status=OpenMarkets&sport=Football&tag=NFL",
     "text": "",
     "title": "",
     "onlyOnce": true,
     "showForLoggedInOnLoad": true,
     "guestDisplay": "onLoad",
-    "validUntil": "2026-11-19T06:00:00Z"
+    "validUntil": "2026-11-24T05:00:00Z"
 }
