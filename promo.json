@@ -1,10 +1,10 @@
 {
-    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/mixed.png",
-    "url": "https://www.overtimemarkets.xyz",
+    "image": "https://raw.githubusercontent.com/thales-markets/promo-assets/refs/heads/main/PA.png",
+    "url": "https://www.overtimemarkets.xyz/dashboard",
     "text": "",
     "title": "",
     "onlyOnce": true,
     "showForLoggedInOnLoad": true,
     "guestDisplay": "onLoad",
-    "validUntil": "2026-11-27T05:00:00Z"
+    "validUntil": "2026-11-30T05:00:00Z"
 }
